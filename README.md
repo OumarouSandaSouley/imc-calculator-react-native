@@ -41,12 +41,12 @@ IMC, or Índice de Massa Corporal (Body Mass Index - BMI), is a value derived fr
 ## Installation
 
 To test it in your mobile app, you can download it troughout this link: [Download Here](https://expo.dev/artifacts/eas/pkkRzBZ5w1Goj6RPiwjy71.apk)
+
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/OumarouSandaSouley/imc-calculator-react-native
-.git
+   git clone https://github.com/OumarouSandaSouley/imc-calculator-react-native.git
    cd imc-calculator-react-native
    ```
 
